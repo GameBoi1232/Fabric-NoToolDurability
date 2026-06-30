@@ -1,5 +1,7 @@
 # NoToolDurability
 
+<img width="160" height="160" alt="IconNoToolDurability" src="https://github.com/user-attachments/assets/42efa8be-92fc-4cf5-a88d-2c0bb496fe58" />
+
 A simple mod for Minecraft which disables durability. Mod can be toggeled in game using the /notooldurability command.
 
 ## Commands
