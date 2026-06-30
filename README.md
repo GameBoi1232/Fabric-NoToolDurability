@@ -1,6 +1,6 @@
-# NoItemDurability
+# NoToolDurability
 
-A simple mod for Minecraft which disables durability. Mod can be toggeled in game using the /noitemdurability command.
+A simple mod for Minecraft which disables durability. Mod can be toggeled in game using the /notooldurability command.
 
 ## License
 
