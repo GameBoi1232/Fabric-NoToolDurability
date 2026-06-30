@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "notooldurability",
+	"version": "${version}",
+	"name": "NoToolDurability",
+	"description": "This mod can disable and enable if items take durability damage.",
+	"authors": ["TBBTLY"],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/notooldurability/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.tbbtly.notooldurability.NoToolDurability"
+		]
+	},
+	"mixins": [
+		"notooldurability.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
