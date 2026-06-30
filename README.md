@@ -1,9 +1,7 @@
 # NoToolDurability
 
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+A simple mod for Minecraft which disables durability. Mod can be toggeled in game using the /notooldurability command.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+MIT
