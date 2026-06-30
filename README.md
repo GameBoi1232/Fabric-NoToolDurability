@@ -4,4 +4,4 @@ A simple mod for Minecraft which disables durability. Mod can be toggeled in gam
 
 ## License
 
-MIT
+MIT license
