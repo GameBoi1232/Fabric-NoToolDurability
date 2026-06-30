@@ -5,7 +5,9 @@
 	"name": "NoToolDurability",
 	"description": "This mod can disable and enable if items take durability damage.",
 	"authors": ["TBBTLY"],
-	"contact": {},
+	"contact": {
+		"sources": "https://github.com/GameBoi1232/Fabric-NoToolDurability"
+	},
 	"license": "MIT",
 	"icon": "assets/notooldurability/icon.png",
 	"environment": "*",

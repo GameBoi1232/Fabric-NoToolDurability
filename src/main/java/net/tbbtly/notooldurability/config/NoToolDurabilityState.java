@@ -24,8 +24,4 @@ public final class NoToolDurabilityState {
         SUPPRESSED.set(false);
     }
 
-    /** Toggle and return the new state. */
-    public static boolean toggle() {
-        return !(SUPPRESSED.get());
-    }
 }
